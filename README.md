@@ -1,8 +1,7 @@
 # Text-to-Image-stable-diffusion
 
 ## Overview
-
-Briefly describe your machine learning project and its purpose. Explain what problem it solves or what task it aims to accomplish.
+This machine-learning project leverages the power of the Stable Diffusion model to generate ultra-realistic images based on user-provided prompts. By utilizing the "stable-diffusion-xl-base-1.0" variant, the project achieves stunning levels of realism and detail, making it suitable for a wide range of creative and artistic applications.
 
 ## Table of Contents
 
