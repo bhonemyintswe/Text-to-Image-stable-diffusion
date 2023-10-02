@@ -14,7 +14,7 @@ Provide instructions on how to install and set up the project on the user's loca
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/machine-learning-project.git
+git clone https://github.com/bhonemyintswe/Text-to-Image-stable-diffusion.git
 
 # Navigate to the project directory
 cd TEXT-TO-IMAGE-STABLE-DIFFUSION
