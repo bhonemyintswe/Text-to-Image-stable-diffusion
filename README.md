@@ -5,7 +5,19 @@ This machine-learning project leverages the power of the Stable Diffusion model 
 
 ## Table of Contents
 
-[Installation](#installation)
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+
+## Dependencies
+
+Before running the project, ensure you have the following dependencies installed:
+
+transformers==4.33.0
+torch==2.0.0
+diffusers==0.21.4
+matplotlib==3.7.2
+
+You can install these dependencies using the `requirements.txt` file provided in this repository.
 
 ## Installation
 
